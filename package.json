@@ -1,0 +1,17 @@
+{
+  "name": "crescent.doc",
+  "version": "1.0.0",
+  "description": "A Moonbit wasm API solution.",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "vitepress": "^1.1.4"
+  }
+}
